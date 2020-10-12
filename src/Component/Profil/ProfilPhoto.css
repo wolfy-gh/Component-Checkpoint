@@ -1,0 +1,6 @@
+.profilphoto{
+    margin : 20px 20px;
+}
+.profilphoto > img {
+    height: 200px;
+}
